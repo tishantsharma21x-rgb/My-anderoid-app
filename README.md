@@ -1,1 +1,1 @@
-# My-anderoid-app
+#BuddyClock-app
